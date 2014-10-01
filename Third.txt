@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is myproject file. - Prem
+=======
+This is myproject file.
+>>>>>>> 942b5512c346a565d1f95824e6799fd51319fe7a
